@@ -1,8 +1,11 @@
 # XELF.Imaging
 * Limited-use supports of image reader/writer for Unity: APNG/DDS 
 
-This project is intented to be used for the specific purpose.
-Note that the supported features are limited.
+* This project is intented to be used for the specific purpose.
+  * Note that the supported features are limited.
+* Not contained APNG/DDS assets importer/Exporter.
+  * Low-level scripting features only.
+  * APNG/DDS importer/exporter will be supported by a higher-level project.
 
 ## Specifications
 * APNG reader / writer (limited)
