@@ -10,6 +10,7 @@
 ## Specifications
 * APNG reader / writer (limited)
   * APNG is suppported Zlib/DEFLATE compression via .NET `System.IO.Compression.DeflateStream`.
+  * Supports of animation are limited.
 * DDS writer (limited)
 * Written in C#6
   * Required `Script Runtime Version`: `.NET 4.x Equivalent`
