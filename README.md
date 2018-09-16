@@ -29,6 +29,6 @@
 
 ## Install via Package Manager
 
-* Temporal `package.json` is containned for Package Manager.
+* Temporal `package.json` is contained for Package Manager.
   * For more informations ☛ [XELF.Hexelate.Shader](https://github.com/xelfia/XELF.Hexelate.Shader)
 
