@@ -23,11 +23,11 @@
 * DDS reader does not exist.
 * PNG filter method 0 is only supported type `None`.
 
-# Install manually
+## Install manually
 
-* Copy project files into your local project folder.
+* Copy this project files into your local project folder.
 
-# Install via Package Manager
+## Install via Package Manager
 
 * Temporal `package.json` is containned for Package Manager.
   * For more informations ☛ [XELF.Hexelate.Shader](https://github.com/xelfia/XELF.Hexelate.Shader)
