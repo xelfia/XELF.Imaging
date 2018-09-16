@@ -21,7 +21,7 @@
   * Can only read/write low resolution images.
   * Cannot read an image contained verbose chunks.
 * DDS reader does not exist.
-* PNG filter method 0 is only supported type `None`.
+* PNG filter method 0 is only supported filter type `None`.
 
 ## Install manually
 
