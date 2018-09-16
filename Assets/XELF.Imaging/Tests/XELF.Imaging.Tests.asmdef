@@ -1,0 +1,14 @@
+{
+    "name": "XELF.Imaging.Tests",
+    "references": [
+        "XELF.Imaging"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
