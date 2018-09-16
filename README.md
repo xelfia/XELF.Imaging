@@ -15,6 +15,6 @@ Note that the supported features are limited.
 * 8 bits/pixel only.
 * PNG `IDAT` chunk and APNG `fdAT` chunk can read/write once only.
   * Can only read/write low resolution images.
-  * Cannot read image contained verbose chunks.
+  * Cannot read an image contained verbose chunks.
 * DDS reader does not exist.
 * PNG filter method 0 is only supported type `None`.
