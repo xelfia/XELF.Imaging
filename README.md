@@ -3,7 +3,7 @@
 
 * This project is intented to be used for the specific purpose.
   * Note that the supported features are limited.
-* Not contained APNG/DDS assets importer/Exporter.
+* Not contained APNG/DDS importer/exporter as an asset.
   * Low-level scripting features only.
   * APNG/DDS importer/exporter will be supported by a higher-level project.
 
